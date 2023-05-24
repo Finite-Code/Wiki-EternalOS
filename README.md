@@ -37,6 +37,6 @@ For any inquiries or feedback regarding the 𝔼ternal OS website, you can reach
 Once Applied Through The Google Form:
 Message 
 ```
-Never Gonna Give Custom ROMs Up + [Your Name] + [Your Unofficial Build Source On Github (Link)]
+Never Gonna Give Up 𝔼ternalOS + [Your Full Real Name] + (Your Username on XDA-Developers) + [Your Unofficial Build Source On Github (Link)]
 ```
 To t.me/FiniteCode
