@@ -47,4 +47,4 @@ Message
 ```
 Never Gonna Give Up 𝔼ternalOS + [Your Full Real Name] + (Your Username on XDA-Developers) + [Your Unofficial Build Source On Github (Link)]
 ```
-To t.me/FiniteCode
+To [t.me/FiniteCode](FiniteCode on Telegram)
