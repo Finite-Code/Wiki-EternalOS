@@ -1,16 +1,21 @@
 # 𝔼ternal OS
 
 ## Introduction
-𝔼ternal OS is an open-source operating system project founded by Atharva Pandey, also known as FiniteCode. The project aims to provide a reliable and user-friendly computing experience to its users. This Readme provides an overview of the 𝔼ternal OS website and its features.
+𝔼ternal OS is an open-source operating system project founded by Atharva Pandey, also known as FiniteCode.
+The project aims to provide a reliable and user-friendly computing experience to its users.
+This Readme provides an overview of the 𝔼ternal OS website and its features.
 
 ## Website Features
-- Informative and user-friendly interface
-- Detailed documentation and guides
-- News and updates about 𝔼ternal OS
-- Community forums for discussions and support
-- Download section for the latest releases
-- Contribution guidelines for developers
+<b>
+- All New Feature Announcements <br>
+- Informative and user-friendly interface <br>
+- Detailed documentation and guides <br>
+- News and updates about 𝔼ternal OS <br>
+- Community forums for discussions and support <br>
+- Download section for the BETA latest releases <br>
+- Contribution guidelines for developers <br>
 - Contact information for inquiries
+</b>
 
 ## Website Structure
 The 𝔼ternal OS website consists of the following sections:
@@ -32,6 +37,9 @@ The 𝔼ternal OS website is released under the [MIT License](LICENSE). Feel fre
 
 ## Contact
 For any inquiries or feedback regarding the 𝔼ternal OS website, you can reach out to the project founder, Atharva Pandey, on GitHub or via email: [your-email@example.com](mailto:your-email@example.com).
+
+## For Future Maintainers
+Apply via this Google Form
 
 ## Reach Out Atharva
 Once Applied Through The Google Form:
